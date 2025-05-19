@@ -1,5 +1,5 @@
 # Survivor-In-The-Woods
-A python text-based game developed during my course at Code Nation
+"A python text-based game developed during my course at Code Nation"
 
 The game was built on Visual Studio Code with the Python programming language.
 We were a strong team of 4 individuals who all had a very good idea of what the computing world is.
