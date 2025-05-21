@@ -1,4 +1,4 @@
-# Survivor-In-The-Woods
+# Survivor-In-The-Wilderness
 "A python text-based game developed during my course at Code Nation"
 
 The game was built on Visual Studio Code with the Python programming language.
