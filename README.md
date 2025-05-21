@@ -18,4 +18,6 @@ In this repository, I have taken the time to upload all project documentations f
 
 With in the code you will find comments all over to ensure a detailed description of what each line of coding is doing, that way anybody who is either new to the platform or new to coding in Python can replicate our code to develop their own. 
 
+Team members:
+Makai, Dylan, Fehintola, and Sheikh
 
