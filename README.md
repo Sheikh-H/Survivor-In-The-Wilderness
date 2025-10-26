@@ -60,7 +60,7 @@ Survivor-In-The-Wilderness/
   <li>Download or clone this repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/Survivor-In-The-Wilderness.git</code></pre>
+<pre><code>git clone https://github.com/Sheikh-H/Survivor-In-The-Wilderness.git</code></pre>
 
 <ol start="3">
   <li>Navigate into the project folder:</li>
