@@ -165,7 +165,7 @@ The game ends with a twist — another survivor emerges… but are they friend o
 <h2>📄 License</h2>
 
 <p>
-  This project is licensed under the <b>MIT License</b> — see the <a href="./LICENCE">LICENCE</a> file for details.
+  This project is licenced under the <b>MIT Licence</b> — see the <a href="./LICENCE">LICENCE</a> file for details.
 </p>
 
 <pre>
