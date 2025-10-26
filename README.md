@@ -57,7 +57,7 @@ Survivor-In-The-Wilderness/
 <p>To play the game on your own system:</p>
 
 <ol>
-  <li>Make sure you have <strong>Python 3</strong> installed.</li>
+  <li>Make sure you have <strong>Python 3.13 or above</strong> installed.</li>
   <li>Download or clone this repository:</li>
 </ol>
 
