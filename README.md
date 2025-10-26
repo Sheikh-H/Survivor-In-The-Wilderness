@@ -46,6 +46,7 @@ Survivor-In-The-Wilderness/
 │
 ├── main.py                  # Main game script
 ├── README.md                # Project documentation
+├── Flowchart.pdf            # Project documentation
 └── LICENCE                  # MIT Licence (optional)
 </pre>
 
