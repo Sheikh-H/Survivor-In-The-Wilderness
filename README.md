@@ -173,6 +173,6 @@ This project is licensed under the <strong><a href="https://opensource.org/licen
 <h2>💬 Author</h2>
 
 <p>
-Developed with ❤️ by <strong>Sheikh</strong><br>
+Developed with ❤️ by <strong>Sheikh, Makai, Fehintola, Dylan @ Code Nation</strong><br>
 <i>“Survival is about choices — make yours count.”</i>
 </p>
