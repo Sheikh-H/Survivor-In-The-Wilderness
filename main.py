@@ -4,7 +4,7 @@ import sys #for the clear function
 import time #for the  speed
 import os
 
-#all global variable's:
+#all global variables:
 chest_code = 539 # used for secret chest
 fish_cooked = False
 player_health = 100
@@ -681,3 +681,4 @@ type_text("You push it off you and give it a kick and it stopped moving.\n")
 type_text("you go closer to remove the cloak over them and you see its another survivor...\n")
 time.sleep(5)
 exit()
+
