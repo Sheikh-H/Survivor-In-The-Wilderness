@@ -195,9 +195,22 @@ SOFTWARE.
 
 ---
 
-<h2>💬 Author</h2>
+## Footnote
 
-<p>
-Developed with ❤️ by <strong>Sheikh, Makai, Fehintola, Dylan @ Code Nation</strong><br>
-<i>“Survival is about choices — make yours count.”</i>
-</p>
+<div align="center" style="border: 1px solid green; padding: 10px; border-radius: 5px;">
+	<p>🗣️ Feel free to follow, connect, and chat!</p>
+	<a class="header-badge" target="_blank" href="https://github.com/Sheikh-H"><img src="https://img.shields.io/badge/GitHub-376e00?style=flat&logo=github&logoColor=white" alt="GitHub">
+	</a><a class="header-badge" target="_blank" href="https://www.linkedin.com/in/sheikh-hussain/"><img src="https://img.shields.io/badge/LinkedIn-376e00?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+	</a><a class="header-badge" target="_blank" href="mailto:sheikh.hussain1155@gmail.com"><img src="https://img.shields.io/badge/Gmail-376e00?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+	</a><a class="header-badge" target="_blank" href="https://sheikh-h.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-376e00?style=flat&logo=github&logoColor=white" alt="Portfolio">
+	</a>
+</div>
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/sheikh-hussain/" target="_blank">By Sheikh Hussain 💚</a>  
+</div>
+
+---
+
+
+
