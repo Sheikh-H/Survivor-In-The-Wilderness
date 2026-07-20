@@ -1,4 +1,4 @@
-<h1 align="center">🏕️ Survivor in the Wilderness</h1>
+<h1 align="center">🏕️ Python Zombie Game</h1>
 
 <p align="center">
   <b>A Python text-based adventure game where your choices determine your survival in the wild.</b><br>
@@ -10,7 +10,7 @@
 <h2>📘 Overview</h2>
 
 <p>
-<strong>Survivor in the Wilderness</strong> is a fully interactive <strong>text-based adventure game</strong> written in Python.  
+<strong>Python zombie Game</strong> is a fully interactive <strong>text-based adventure game</strong> written in Python.  
 The game immerses players in a wilderness survival story, where each decision affects your fate — gather resources, fight animals, explore mysterious locations, and uncover secrets.
 </p>
 
@@ -61,7 +61,7 @@ Survivor-In-The-Wilderness/
   <li>Download or clone this repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/Sheikh-H/Survivor-In-The-Wilderness.git</code></pre>
+<pre><code>git clone https://github.com/Sheikh-H/Python-Zombie-Game.git</code></pre>
 
 <ol start="3">
   <li>Navigate into the project folder:</li>
