@@ -10,7 +10,7 @@
 <h2>📘 Overview</h2>
 
 <p>
-<strong>Python zombie Game</strong> is a fully interactive <strong>text-based adventure game</strong> written in Python.  
+<strong>Python Zombie Game</strong> is a fully interactive <strong>text-based adventure game</strong> written in Python.  
 The game immerses players in a wilderness survival story, where each decision affects your fate — gather resources, fight animals, explore mysterious locations, and uncover secrets.
 </p>
 
@@ -42,7 +42,7 @@ Every location you explore gives opportunities or dangers — gather items, hunt
 <h2>📂 Folder Structure</h2>
 
 <pre>
-Survivor-In-The-Wilderness/
+Python-Zombie-Game/
 │
 ├── main.py                  # Main game script
 ├── README.md                # Project documentation
@@ -67,7 +67,7 @@ Survivor-In-The-Wilderness/
   <li>Navigate into the project folder:</li>
 </ol>
 
-<pre><code>cd Survivor-In-The-Wilderness</code></pre>
+<pre><code>cd Python-Zombie-Game</code></pre>
 
 <ol start="4">
   <li>Run the game using:</li>
@@ -110,7 +110,7 @@ Survivor-In-The-Wilderness/
 Before we begin, please Enter Your Name:
 > Sheikh
 
-Welcome Player 'Sheikh' to the 'Survivor In The Wilderness' Game
+Welcome Player 'Sheikh' to the 'Python Zombie Game'
 
 Would you like to start the game? (Yes or No):
 > yes
@@ -211,6 +211,3 @@ SOFTWARE.
 </div>
 
 ---
-
-
-
